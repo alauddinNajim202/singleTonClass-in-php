@@ -1,0 +1,5 @@
+rules:
+
+1. private static variable.
+2. private construct().
+3. public static method return class single instance or object.
